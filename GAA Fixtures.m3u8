@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="PC12-25-F-R1C" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth%20v%20Monaghan_SITE.png" group-title="GAA",Louth v Monaghan - Sat 24 May 16:00 *(Programme Start: 15:30 Irish time, Throw-In: 16:00 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-F-R1C" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth v Monaghan_SITE (1)_340x190.png" group-title="GAA",Louth v Monaghan - Programme Start 15:55 - Throw-In 16:00 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-F-R1C/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-F-R1D" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Donegal%20v%20Tyrone_SITE.png" group-title="GAA",Donegal v Tyrone - Sat 24 May 18:25 *(Programme Start: 18:00 Irish time, Throw-In: 18:25 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-F-R1D" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Donegal v Tyrone_SITE25 (2)_340x190.png" group-title="GAA",Donegal v Tyrone - Programme Start 18:10 - Throw-In 18:25 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-F-R1D/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-TSG-8A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Saturday%20Game%20Logo_SITE.png" group-title="GAA",The Saturday Game 24/05/2025 - Sat 24 May 21:15 *(Programme Start: 21:00 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-TSG-8A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/D lawlor sat game (1)_340x190.jpg" group-title="GAA",The Saturday Game 24/05/2025 - Programme Start 21:00 - Throw-In 21:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-TSG-8A/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-H-LRR6" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Dublin%20v%20Galway_SITE.png" group-title="GAA",Dublin v Galway - Sun 25 May 13:15 *(Programme Start: 12:45 Irish time, Throw-In: 13:15 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-H-LRR6" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Dulin v Galway_SITE_340x190.png" group-title="GAA",Dublin v Galway - Programme Start 13:00 - Throw-In 13:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-H-LRR6/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-H-LRR7" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly%20v%20Antrim_SITE.png" group-title="GAA",Offaly v Antrim - Sun 25 May 13:15 *(Programme Start: 12:45 Irish time, Throw-In: 13:15 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-H-LRR7" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly v Antrim_SITE (1)_340x190.png" group-title="GAA",Offaly v Antrim - Programme Start 13:00 - Throw-In 13:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-H-LRR7/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-H-MRR9" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork%20v%20Waterford_SITE.png" group-title="GAA",Cork v Waterford - Sun 25 May 15:15 *(Programme Start: 14:45 Irish time, Throw-In: 15:15 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-H-MRR9" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork v Waterford_SITE_340x190.png" group-title="GAA",Cork v Waterford - Programme Start 15:00 - Throw-In 15:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-H-MRR9/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-TSG-8" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Sunday%20Game%20Logo_SITE.png" group-title="GAA",The Sunday Game 25/05/2025 - Sun 25 May 21:15 *(Programme Start: 21:00 Irish time)*
+#EXTINF:-1 tvg-id="PC12-25-TSG-8" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="GAA",The Sunday Game 25/05/2025 - Programme Start 21:00 - Throw-In 21:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-TSG-8/index.m3u8
