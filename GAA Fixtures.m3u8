@@ -5,3 +5,24 @@ https://d1nuxjxsyrmz5p.cloudfront.net/tg4_live_national_bu.m3u8
 
 #EXTINF:-1 tvg-id="CULA4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cúla4_logo_2023.png" group-title="Live Channels",Cúla4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R1C" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth v Monaghan_SITE (1)_340x190.png" group-title="GAA",Louth v Monaghan - Saturday 24th May 16:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R1C/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R1D" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Donegal v Tyrone_SITE25 (2)_340x190.png" group-title="GAA",Donegal v Tyrone - Saturday 24th May 18:25 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R1D/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-TSG-8A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/D lawlor sat game (1)_340x190.jpg" group-title="The Saturday Game",The Saturday Game 24/05/2025 - Saturday 24th May 21:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-8A/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-H-LRR6" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Dulin v Galway_SITE_340x190.png" group-title="Hurling",Dublin v Galway - Sunday 25th May 13:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-H-LRR6/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-H-LRR7" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly v Antrim_SITE (1)_340x190.png" group-title="Hurling",Offaly v Antrim - Sunday 25th May 13:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-H-LRR7/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-H-MRR9" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork v Waterford_SITE_340x190.png" group-title="Hurling",Cork v Waterford - Sunday 25th May 15:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-H-MRR9/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-TSG-8" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="The Sunday Game",The Sunday Game 25/05/2025 - Sunday 25th May 21:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-8/index.m3u8
