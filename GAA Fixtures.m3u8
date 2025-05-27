@@ -1,19 +1,34 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="TG4.HD.ie" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/TG4_logo_2017.svg/2560px-TG4_logo_2017.svg.png" group-title="Live Channels",TG4
+#EXTINF:-1 tvg-id="PC12-25-U20F-FIN" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth v Tyrone u20_SITE_340x190.png" group-title="Football",Louth U20 v Tyrone U20 - Wednesday 28th May 19:05 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-U20F-FIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-U20H-FIN" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kilkenny v tipp u20_SITE_340x190.png" group-title="Hurling",Kilkenny U20 v Tipperary U20 - Saturday 31st May 14:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-U20H-FIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R2A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork v Kerry_SITE25_340x190.png" group-title="Football",Cork v Kerry - Saturday 31st May 16:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R2A/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R2B" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Tyrone v Mayo_SITE_340x190.png" group-title="Football",Tyrone v Mayo - Saturday 31st May 18:25 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R2B/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-TSG-9A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/D lawlor sat game (1)_340x190.jpg" group-title="The Saturday Game",The Saturday Game 31/05/2025 - Saturday 31st May 22:35 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-9A/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R2C" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Derry v Galway_SITE25_340x190.png" group-title="Football",Derry v Galway - Sunday 1st Jun 13:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R2C/index.m3u8
+
+#EXTINF:-1 tvg-id="PT12-25-F-R3" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Fermanagh v Wexford_SITE_340x190.png" group-title="Football",Fermanagh v Wexford - Sunday 1st Jun 13:30 (Irish time)
+https://event-gaa.simplestreamcdn.com/PT12-25-F-R3/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-F-R2D" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Dublin v Armagh_SITE_340x190.png" group-title="Football",Dublin v Armagh - Sunday 1st Jun 15:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-R2D/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-TSG-9" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="The Sunday Game",The Sunday Game 01/06/2025 - Sunday 1st Jun 21:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-9/index.m3u8
+
+#EXTINF:-1 tvg-id="TG4" tvg-logo="https://d1nuxjxsyrmz5p.cloudfront.net/tg4_live_national_bu.png" group-title="Live Channels",TG4
 https://d1nuxjxsyrmz5p.cloudfront.net/tg4_live_national_bu.m3u8
 
-#EXTINF:-1 tvg-id="Cula4.HD.ie" tvg-name="Cúla4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cúla4_logo_2023.png" group-title="Live Channels",Cúla4
+#EXTINF:-1 tvg-id="Cula4" tvg-logo="https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main.png" group-title="Live Channels",Cúla4
 https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main.m3u8
-
-#EXTINF:-1 tvg-id="PC12-25-F-LQF4" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Armagh%20v%20Derry_SITE.png" group-title="Football",Armagh v Derry - Saturday 25th May 16:45 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-LQF4/index.m3u8
-
-#EXTINF:-1 tvg-id="PC12-25-F-LQF3" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Donegal%20v%20Tyrone_SITE.png" group-title="Football",Donegal v Tyrone - Saturday 25th May 18:45 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-LQF3/index.m3u8
-
-#EXTINF:-1 tvg-id="PC12-25-F-LQF1" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth%20v%20Meath_SITE.png" group-title="Football",Louth v Meath - Sunday 26th May 13:15 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-LQF1/index.m3u8
-
-#EXTINF:-1 tvg-id="PC12-25-F-LQF2" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Down%20v%20Antrim_SITE.png" group-title="Football",Down v Antrim - Sunday 26th May 15:15 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-LQF2/index.m3u8
