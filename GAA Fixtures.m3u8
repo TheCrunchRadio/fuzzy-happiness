@@ -1,46 +1,41 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
 
-# Live Channels (always included)
-#EXTINF:-1 tvg-id="TG4" tvg-logo="https://tg4.ie/logo.png" group-title="Live Channels",TG4
-https://d1nuxjxsyrmz5p.cloudfront.net/tg4_live_national_bu.m3u8
-
-#EXTINF:-1 tvg-id="CULA4" tvg-logo="https://cula4.ie/logo.png" group-title="Live Channels",Cúla4
-https://d3257a9rb0p5iy.cloudfront.net/tg4_live_cula4_main.m3u8
-
-# Matches (group-title set dynamically based on sport)
-
-# Kilkenny U20 v Tipperary U20
-#EXTINF:-1 tvg-id="PC12-25-U20H-FIN" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kilkenny%20v%20Tipp%20u20_SITE_340x190.png" group-title="Hurling",Kilkenny U20 v Tipperary U20 - Saturday 31st May 14:30 (Irish time)
+########## vBox ##########
+#EXTINF:-1 tvg-chno="1" tvg-id="www.RTÉ One_1.co.un" tvg-name="RTÉ One" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-one-uk.png" group-title="vBox", RTÉ One
+http://192.168.18.3:55555/RTÉ%20One_1
+#EXTINF:-1 tvg-chno="2" tvg-id="www.RTÉ2.co.un" tvg-name="RTÉ2" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-2-uk.png" group-title="vBox", RTÉ2
 http://192.168.18.3:55555/RTÉ2
+#EXTINF:-1 tvg-chno="3" tvg-id="www.Virgin Media 1.co.un" tvg-name="Virgin Media 1" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-one-uk.png" group-title="vBox", Virgin Media 1
+http://192.168.18.3:55555/Virgin%20Media%201
+#EXTINF:-1 tvg-chno="4" tvg-id="www.TG4_1.co.un" tvg-name="TG4" tvg-logo="http://192.168.18.3:55555/Media/icons/tg-4-uk.png" group-title="vBox", TG4
+http://192.168.18.3:55555/TG4_1
+#EXTINF:-1 tvg-chno="5" tvg-id="www.Virgin Media 2.co.un" tvg-name="Virgin Media 2" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-two-uk.png" group-title="vBox", Virgin Media 2
+http://192.168.18.3:55555/Virgin%20Media%202
+#EXTINF:-1 tvg-chno="6" tvg-id="www.Virgin Media 3.co.un" tvg-name="Virgin Media 3" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-three-uk.png" group-title="vBox", Virgin Media 3
+http://192.168.18.3:55555/Virgin%20Media%203
+#EXTINF:-1 tvg-chno="7" tvg-id="www.Virgin Media 4.co.un" tvg-name="Virgin Media 4" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-four-uk.png" group-title="vBox", Virgin Media 4
+http://192.168.18.3:55555/Virgin%20Media%204
+#EXTINF:-1 tvg-chno="8" tvg-id="www.Challenge.co.un" tvg-name="Challenge" tvg-logo="http://192.168.18.3:55555/Media/icons/challenge-uk.png" group-title="vBox", Challenge
+http://192.168.18.3:55555/Challenge
+#EXTINF:-1 tvg-chno="11" tvg-id="www.RTÉ One +1.co.un" tvg-name="RTÉ One +1" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-one-plus-uk.png" group-title="vBox", RTÉ One +1
+http://192.168.18.3:55555/RTÉ%20One%20%2B1
+#EXTINF:-1 tvg-chno="12" tvg-id="www.RTÉ2 +1.co.un" tvg-name="RTÉ2 +1" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-2-plus-uk.png" group-title="vBox", RTÉ2 +1
+http://192.168.18.3:55555/RTÉ2%20%2B1
+#EXTINF:-1 tvg-chno="14" tvg-id="www.TG4 +1.co.un" tvg-name="TG4 +1" tvg-logo="http://192.168.18.3:55555/images/tv_icon.jpg" group-title="vBox", TG4 +1
+http://192.168.18.3:55555/TG4%20%2B1
+#EXTINF:-1 tvg-chno="17" tvg-id="www.RTÉ Junior.co.un" tvg-name="RTÉ Junior" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-jr-uk.png" group-title="vBox", RTÉ Junior
+http://192.168.18.3:55555/RTÉ%20Junior
+#EXTINF:-1 tvg-chno="18" tvg-id="www.Cúla4.co.un" tvg-name="Cúla4" tvg-logo="http://192.168.18.3:55555/Media/icons/cula-4-uk.png" group-title="vBox", Cúla4
+http://192.168.18.3:55555/Cúla4
+#EXTINF:-1 tvg-chno="21" tvg-id="www.RTÉ News.co.un" tvg-name="RTÉ News" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-news-now-hz-uk.png" group-title="vBox", RTÉ News
+http://192.168.18.3:55555/RTÉ%20News
 
-# Louth U20 v Tyrone U20
-#EXTINF:-1 tvg-id="PC12-25-U20F-FIN" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Louth%20v%20Tyrone%20u20_SITE_340x190.png" group-title="Football",Louth U20 v Tyrone U20 - Wednesday 28th May 19:05 (Irish time)
-# Put stream URL here if available
+########## GAA ##########
+#EXTINF:-1 tvg-id="gaa.offaly.newyork" tvg-name="Offaly v New York" group-title="GAA",Offaly v New York (Sat 7th Jun - 13:45)
+https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF1/index.m3u8
 
-# Cork v Kerry
-#EXTINF:-1 tvg-id="PC12-25-F-R2A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork%20v%20Kerry_SITE25_340x190.png" group-title="Football",Cork v Kerry - Saturday 31st May 16:00 (Irish time)
-# Put stream URL here if available
+#EXTINF:-1 tvg-id="gaa.westmeath.laois" tvg-name="Westmeath v Laois" group-title="GAA",Westmeath v Laois (Sat 7th Jun - 16:45)
+https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF2/index.m3u8
 
-# Tyrone v Mayo
-#EXTINF:-1 tvg-id="PC12-25-F-R2B" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Tyrone%20v%20Mayo_SITE_340x190.png" group-title="Football",Tyrone v Mayo - Saturday 31st May 18:25 (Irish time)
-# Put stream URL here if available
-
-# The Saturday Game 31/05/2025
-#EXTINF:-1 tvg-id="PC12-25-TSG-9A" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/D%20lawlor%20sat%20game%20(1)_340x190.jpg" group-title="Football",The Saturday Game 31/05/2025 - Saturday 31st May 22:35 (Irish time)
-# Put stream URL here if available
-
-# Fermanagh v Wexford
-#EXTINF:-1 tvg-id="PT12-25-F-R3" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Fermanagh%20v%20Wexford_SITE_340x190.png" group-title="Football",Fermanagh v Wexford - Sunday 1st Jun 13:30 (Irish time)
-# Put stream URL here if available
-
-# Derry v Galway
-#EXTINF:-1 tvg-id="PC12-25-F-R2C" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Derry%20v%20Galway_SITE25_340x190.png" group-title="Football",Derry v Galway - Sunday 1st Jun 13:15 (Irish time)
-# Put stream URL here if available
-
-# Dublin v Armagh
-#EXTINF:-1 tvg-id="PC12-25-F-R2D" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Dublin%20v%20Armagh_SITE_340x190.png" group-title="Football",Dublin v Armagh - Sunday 1st Jun 15:15 (Irish time)
-# Put stream URL here if available
-
-# The Sunday Game 01/06/2025
-#EXTINF:-1 tvg-id="PC12-25-TSG-9" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="Football",The Sunday Game 01/06/2025 - Sunday 1st Jun 21:15 (Irish time)
-# Put stream URL here if available
+#EXTINF:-1 tvg-id="gaa.sundaygame.08062025" tvg-name="The Sunday Game" group-title="GAA",The Sunday Game (Sun 8th Jun - 21:15)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-10/index.m3u8
