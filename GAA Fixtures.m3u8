@@ -1,34 +1,48 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
 
 ########## vBox ##########
-#EXTINF:-1 tvg-chno="1" tvg-id="RTE.One.IE" tvg-name="RTÉ One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ One
+#EXTINF:-1 tvg-chno="1" tvg-id="RTE.One.HD.ie" tvg-name="RTÉ One" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg" group-title="vBox",RTÉ One
 http://192.168.18.3:55555/RTÉ%20One_1
-#EXTINF:-1 tvg-chno="2" tvg-id="RTE2.IE" tvg-name="RTÉ2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/RTE2_2020.svg" group-title="vBox", RTÉ2
+
+#EXTINF:-1 tvg-chno="2" tvg-id="RTE2.HD.ie" tvg-name="RTÉ2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/RTE2_2020.svg" group-title="vBox",RTÉ2
 http://192.168.18.3:55555/RTÉ2
-#EXTINF:-1 tvg-chno="3" tvg-id="Virgin.Media.One.IE" tvg-name="Virgin Media 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox", Virgin Media 1
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Virgin.Media.One.HD.ie" tvg-name="Virgin Media 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox",Virgin Media 1
 http://192.168.18.3:55555/Virgin%20Media%201
-#EXTINF:-1 tvg-chno="4" tvg-id="TG4.IE" tvg-name="TG4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TG4_logo.svg" group-title="vBox", TG4
+
+#EXTINF:-1 tvg-chno="4" tvg-id="TG4.HD.ie" tvg-name="TG4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TG4_logo.svg" group-title="vBox",TG4
 http://192.168.18.3:55555/TG4_1
-#EXTINF:-1 tvg-chno="5" tvg-id="Virgin.Media.Two.IE" tvg-name="Virgin Media 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox", Virgin Media 2
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Virgin.Media.Two.HD.ie" tvg-name="Virgin Media 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox",Virgin Media 2
 http://192.168.18.3:55555/Virgin%20Media%202
-#EXTINF:-1 tvg-chno="6" tvg-id="Virgin.Media.Three.IE" tvg-name="Virgin Media 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox", Virgin Media 3
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Virgin.Media.Three.HD.ie" tvg-name="Virgin Media 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox",Virgin Media 3
 http://192.168.18.3:55555/Virgin%20Media%203
-#EXTINF:-1 tvg-chno="7" tvg-id="Virgin.Media.Four.IE" tvg-name="Virgin Media 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox", Virgin Media 4
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Virgin.Media.Four.HD.ie" tvg-name="Virgin Media 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Virgin_Media_TV_Logo.svg" group-title="vBox",Virgin Media 4
 http://192.168.18.3:55555/Virgin%20Media%204
-#EXTINF:-1 tvg-chno="8" tvg-id="Challenge.IE" tvg-name="Challenge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Challenge_TV_logo.svg" group-title="vBox", Challenge
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Challenge.ie" tvg-name="Challenge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Challenge_TV_logo.svg" group-title="vBox",Challenge
 http://192.168.18.3:55555/Challenge
-#EXTINF:-1 tvg-chno="11" tvg-id="RTE.One.+1.IE" tvg-name="RTÉ One +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ One +1
+
+#EXTINF:-1 tvg-chno="11" tvg-id="RTE.One.+1.ie" tvg-name="RTÉ One +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/RT%C3%89_One_2014.svg" group-title="vBox",RTÉ One +1
 http://192.168.18.3:55555/RTÉ%20One%20%2B1
-#EXTINF:-1 tvg-chno="12" tvg-id="RTE2.+1.IE" tvg-name="RTÉ2 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/RTE2_2020.svg" group-title="vBox", RTÉ2 +1
+
+#EXTINF:-1 tvg-chno="12" tvg-id="RTE2.+1.ie" tvg-name="RTÉ2 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/RTE2_2020.svg" group-title="vBox",RTÉ2 +1
 http://192.168.18.3:55555/RTÉ2%20%2B1
-#EXTINF:-1 tvg-chno="14" tvg-id="TG4.+1.IE" tvg-name="TG4 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TG4_logo.svg" group-title="vBox", TG4 +1
+
+#EXTINF:-1 tvg-chno="14" tvg-id="TG4.+1.ie" tvg-name="TG4 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TG4_logo.svg" group-title="vBox",TG4 +1
 http://192.168.18.3:55555/TG4%20%2B1
-#EXTINF:-1 tvg-chno="17" tvg-id="RTE.Junior.IE" tvg-name="RTÉ Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/RTÉ_Junior_logo.svg" group-title="vBox", RTÉ Junior
+
+#EXTINF:-1 tvg-chno="17" tvg-id="RTEjr.ie" tvg-name="RTÉ Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/RTÉ_Junior_logo.svg" group-title="vBox",RTÉ Junior
 http://192.168.18.3:55555/RTÉ%20Junior
-#EXTINF:-1 tvg-chno="18" tvg-id="Cula4.IE" tvg-name="Cúla4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/C%C3%BAl4_logo.svg" group-title="vBox", Cúla4
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cula4.HD.ie" tvg-name="Cúla4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/C%C3%BAl4_logo.svg" group-title="vBox",Cúla4
 http://192.168.18.3:55555/Cúla4
-#EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.IE" tvg-name="RTÉ News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/RTÉ_News_Logo.svg" group-title="vBox", RTÉ News
+
+#EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.Now.ie" tvg-name="RTÉ News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/RTÉ_News_Logo.svg" group-title="vBox",RTÉ News
 http://192.168.18.3:55555/RTÉ%20News
+
 
 ########## GAA ##########
 #EXTINF:-1 tvg-id="gaa.offaly.newyork" tvg-name="Offaly v New York" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly%20v%20New%20York_SITE_340x190.png" group-title="GAA",Offaly v New York (Sat 7th Jun - 13:45)
