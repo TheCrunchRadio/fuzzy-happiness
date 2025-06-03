@@ -1,41 +1,54 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz"
 
 ########## vBox ##########
-#EXTINF:-1 tvg-chno="1" tvg-id="www.RTÉ One_1.co.un" tvg-name="RTÉ One" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-one-uk.png" group-title="vBox", RTÉ One
+#EXTINF:-1 tvg-chno="1" tvg-id="RTE.One.HD.ie" tvg-name="RTÉ One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ One
 http://192.168.18.3:55555/RTÉ%20One_1
-#EXTINF:-1 tvg-chno="2" tvg-id="www.RTÉ2.co.un" tvg-name="RTÉ2" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-2-uk.png" group-title="vBox", RTÉ2
+
+#EXTINF:-1 tvg-chno="2" tvg-id="RTE.Two.HD.ie" tvg-name="RTÉ2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/RTE2logo.png" group-title="vBox", RTÉ2
 http://192.168.18.3:55555/RTÉ2
-#EXTINF:-1 tvg-chno="3" tvg-id="www.Virgin Media 1.co.un" tvg-name="Virgin Media 1" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-one-uk.png" group-title="vBox", Virgin Media 1
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Virgin.Media.One.HD.ie" tvg-name="Virgin Media 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Virgin_Media_One_HD_logo_2018.svg" group-title="vBox", Virgin Media 1
 http://192.168.18.3:55555/Virgin%20Media%201
-#EXTINF:-1 tvg-chno="4" tvg-id="www.TG4_1.co.un" tvg-name="TG4" tvg-logo="http://192.168.18.3:55555/Media/icons/tg-4-uk.png" group-title="vBox", TG4
+
+#EXTINF:-1 tvg-chno="4" tvg-id="TG4.HD.ie" tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TG4_logo.svg" group-title="vBox", TG4
 http://192.168.18.3:55555/TG4_1
-#EXTINF:-1 tvg-chno="5" tvg-id="www.Virgin Media 2.co.un" tvg-name="Virgin Media 2" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-two-uk.png" group-title="vBox", Virgin Media 2
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Virgin.Media.Two.HD.ie" tvg-name="Virgin Media 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Virgin_Media_Two_HD_logo_2018.svg" group-title="vBox", Virgin Media 2
 http://192.168.18.3:55555/Virgin%20Media%202
-#EXTINF:-1 tvg-chno="6" tvg-id="www.Virgin Media 3.co.un" tvg-name="Virgin Media 3" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-three-uk.png" group-title="vBox", Virgin Media 3
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Virgin.Media.Three.HD.ie" tvg-name="Virgin Media 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Virgin_Media_Three_logo_2018.svg" group-title="vBox", Virgin Media 3
 http://192.168.18.3:55555/Virgin%20Media%203
-#EXTINF:-1 tvg-chno="7" tvg-id="www.Virgin Media 4.co.un" tvg-name="Virgin Media 4" tvg-logo="http://192.168.18.3:55555/Media/icons/virgin-media-four-uk.png" group-title="vBox", Virgin Media 4
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Virgin.Media.Four.HD.ie" tvg-name="Virgin Media 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Virgin_Media_Four_logo.svg" group-title="vBox", Virgin Media 4
 http://192.168.18.3:55555/Virgin%20Media%204
-#EXTINF:-1 tvg-chno="8" tvg-id="www.Challenge.co.un" tvg-name="Challenge" tvg-logo="http://192.168.18.3:55555/Media/icons/challenge-uk.png" group-title="vBox", Challenge
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Challenge.ie" tvg-name="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Challenge_logo_2016.png" group-title="vBox", Challenge
 http://192.168.18.3:55555/Challenge
-#EXTINF:-1 tvg-chno="11" tvg-id="www.RTÉ One +1.co.un" tvg-name="RTÉ One +1" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-one-plus-uk.png" group-title="vBox", RTÉ One +1
+
+#EXTINF:-1 tvg-chno="11" tvg-id="RTE.One.+1.ie" tvg-name="RTÉ One +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ One +1
 http://192.168.18.3:55555/RTÉ%20One%20%2B1
-#EXTINF:-1 tvg-chno="12" tvg-id="www.RTÉ2 +1.co.un" tvg-name="RTÉ2 +1" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-2-plus-uk.png" group-title="vBox", RTÉ2 +1
+
+#EXTINF:-1 tvg-chno="12" tvg-id="RTE2.+1.ie" tvg-name="RTÉ2 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/RTE2logo.png" group-title="vBox", RTÉ2 +1
 http://192.168.18.3:55555/RTÉ2%20%2B1
-#EXTINF:-1 tvg-chno="14" tvg-id="www.TG4 +1.co.un" tvg-name="TG4 +1" tvg-logo="http://192.168.18.3:55555/images/tv_icon.jpg" group-title="vBox", TG4 +1
+
+#EXTINF:-1 tvg-chno="14" tvg-id="TG4+1.HD.ie" tvg-name="TG4 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TG4_logo.svg" group-title="vBox", TG4 +1
 http://192.168.18.3:55555/TG4%20%2B1
-#EXTINF:-1 tvg-chno="17" tvg-id="www.RTÉ Junior.co.un" tvg-name="RTÉ Junior" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-jr-uk.png" group-title="vBox", RTÉ Junior
+
+#EXTINF:-1 tvg-chno="17" tvg-id="RTEjr.ie" tvg-name="RTÉ Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ Junior
 http://192.168.18.3:55555/RTÉ%20Junior
-#EXTINF:-1 tvg-chno="18" tvg-id="www.Cúla4.co.un" tvg-name="Cúla4" tvg-logo="http://192.168.18.3:55555/Media/icons/cula-4-uk.png" group-title="vBox", Cúla4
+
+#EXTINF:-1 tvg-chno="18" tvg-id="Cula4.HD.ie" tvg-name="Cúla4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TG4_logo.svg" group-title="vBox", Cúla4
 http://192.168.18.3:55555/Cúla4
-#EXTINF:-1 tvg-chno="21" tvg-id="www.RTÉ News.co.un" tvg-name="RTÉ News" tvg-logo="http://192.168.18.3:55555/Media/icons/rte-news-now-hz-uk.png" group-title="vBox", RTÉ News
+
+#EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.ie" tvg-name="RTÉ News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/RT%C3%89_One_2014.svg" group-title="vBox", RTÉ News
 http://192.168.18.3:55555/RTÉ%20News
 
 ########## GAA ##########
-#EXTINF:-1 tvg-id="gaa.offaly.newyork" tvg-name="Offaly v New York" group-title="GAA",Offaly v New York (Sat 7th Jun - 13:45)
+#EXTINF:-1 tvg-id="gaa.offaly.newyork" tvg-name="Offaly v New York" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly%20v%20New%20York_SITE_340x190.png" group-title="GAA",Offaly v New York (Sat 7th Jun - 13:45)
 https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF1/index.m3u8
 
-#EXTINF:-1 tvg-id="gaa.westmeath.laois" tvg-name="Westmeath v Laois" group-title="GAA",Westmeath v Laois (Sat 7th Jun - 16:45)
+#EXTINF:-1 tvg-id="gaa.westmeath.laois" tvg-name="Westmeath v Laois" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Westmeath%20v%20Laois_SITE_340x190.png" group-title="GAA",Westmeath v Laois (Sat 7th Jun - 16:45)
 https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF2/index.m3u8
 
-#EXTINF:-1 tvg-id="gaa.sundaygame.08062025" tvg-name="The Sunday Game" group-title="GAA",The Sunday Game (Sun 8th Jun - 21:15)
+#EXTINF:-1 tvg-id="gaa.sundaygame.08062025" tvg-name="The Sunday Game" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/The%20Sunday%20Game_SITE_340x190.png" group-title="GAA",The Sunday Game (Sun 8th Jun - 21:15)
 https://event-gaa.simplestreamcdn.com/PC12-25-TSG-10/index.m3u8
