@@ -34,22 +34,21 @@ http://192.168.18.3:55555/RTÉ2%20%2B1
 #EXTINF:-1 tvg-chno="14" tvg-id="TG4.+1.ie" tvg-name="TG4 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TG4_logo.svg" group-title="vBox",TG4 +1
 http://192.168.18.3:55555/TG4%20%2B1
 
-#EXTINF:-1 tvg-chno="17" tvg-id="RTEjr.ie" tvg-name="RTÉ Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/RTÉ_Junior_logo.svg" group-title="vBox",RTÉ Junior
+#EXTINF:-1 tvg-chno="17" tvg-id="RTEjr.ie" tvg-name="RTÉ Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/RT%C3%89jr_logo.svg/1200px-RT%C3%89jr_logo.svg.png" group-title="vBox",RTÉ Junior
 http://192.168.18.3:55555/RTÉ%20Junior
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Cula4.HD.ie" tvg-name="Cúla4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/C%C3%BAl4_logo.svg" group-title="vBox",Cúla4
+#EXTINF:-1 tvg-chno="18" tvg-id="Cula4.HD.ie" tvg-name="Cúla4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Cúla4_logo_2015.svg" group-title="vBox",Cúla4
 http://192.168.18.3:55555/Cúla4
 
-#EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.Now.ie" tvg-name="RTÉ News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/RTÉ_News_Logo.svg" group-title="vBox",RTÉ News
+#EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.Now.ie" tvg-name="RTÉ News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/RT%C3%89_News_logo.svg" group-title="vBox",RTÉ News
 http://192.168.18.3:55555/RTÉ%20News
 
-
 ########## GAA ##########
-#EXTINF:-1 tvg-id="gaa.offaly.newyork" tvg-name="Offaly v New York" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Offaly%20v%20New%20York_SITE_340x190.png" group-title="GAA",Offaly v New York (Sat 7th Jun - 13:45)
-https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF1/index.m3u8
+#EXTINF:-1 tvg-id="PC12-25-F-AIQF3" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Meath%20v%20Galway_SITE-25_340x190.png" group-title="GAA",Meath v Galway - Sun 29 Jun 15:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-AIQF3/index.m3u8
 
-#EXTINF:-1 tvg-id="gaa.westmeath.laois" tvg-name="Westmeath v Laois" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Westmeath%20v%20Laois_SITE_340x190.png" group-title="GAA",Westmeath v Laois (Sat 7th Jun - 16:45)
-https://event-gaa.simplestreamcdn.com/PT12-25-F-PQF2/index.m3u8
+#EXTINF:-1 tvg-id="PC12-25-F-AIQF4" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Armagh%20v%20Kerry_SITE-25_340x190.jpg" group-title="GAA",Armagh v Kerry - Sun 29 Jun 15:15 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-F-AIQF4/index.m3u8
 
-#EXTINF:-1 tvg-id="gaa.sundaygame.08062025" tvg-name="The Sunday Game" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/The%20Sunday%20Game_SITE_340x190.png" group-title="GAA",The Sunday Game (Sun 8th Jun - 21:15)
-https://event-gaa.simplestreamcdn.com/PC12-25-TSG-10/index.m3u8
+#EXTINF:-1 tvg-id="PC12-25-TSG-13" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="GAA",The Sunday Game 29/06/2025 - Sun 29 Jun 22:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-13/index.m3u8
