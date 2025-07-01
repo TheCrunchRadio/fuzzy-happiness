@@ -43,12 +43,31 @@ http://192.168.18.3:55555/Cúla4
 #EXTINF:-1 tvg-chno="21" tvg-id="RTE.News.Now.ie" tvg-name="RTÉ News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/RT%C3%89_News_logo.svg" group-title="vBox",RTÉ News
 http://192.168.18.3:55555/RTÉ%20News
 
+
 ########## GAA ##########
-#EXTINF:-1 tvg-id="PC12-25-F-AIQF3" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Meath%20v%20Galway_SITE-25_340x190.png" group-title="GAA",Meath v Galway - Sun 29 Jun 15:15 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-AIQF3/index.m3u8
+#EXTINF:-1 tvg-id="PC14-25-H-AISF1" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Cork%20v%20Dublin_SITE_340x190.png" group-title="GAA",Cork v Dublin - Sat 5 Jul 15:50 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC14-25-H-AISF1/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-F-AIQF4" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Armagh%20v%20Kerry_SITE-25_340x190.jpg" group-title="GAA",Armagh v Kerry - Sun 29 Jun 15:15 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-F-AIQF4/index.m3u8
+#EXTINF:-1 tvg-id="PC12-25-MNF-AIF" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kerry%20v%20Tyrone_Minors_SITE_340x190.png" group-title="GAA",Kerry Minors v Tyrone Minors - Sun 6 Jul 12:45 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-MNF-AIF/index.m3u8
 
-#EXTINF:-1 tvg-id="PC12-25-TSG-13" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="GAA",The Sunday Game 29/06/2025 - Sun 29 Jun 22:00 (Irish time)
-https://event-gaa.simplestreamcdn.com/PC12-25-TSG-13/index.m3u8
+#EXTINF:-1 tvg-id="PC14-25-H-AISF2" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kilkenny%20v%20Tipp_SITE_340x190.png" group-title="GAA",Kilkenny v Tipperary - Sun 6 Jul 14:50 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC14-25-H-AISF2/index.m3u8
+
+#EXTINF:-1 tvg-id="PT12-25-F-FIN" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kildare%20v%20Limerick_SITE_340x190.png" group-title="GAA",Kildare v Limerick - Sat 12 Jul 14:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PT12-25-F-FIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PC14-25-F-AISF1" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Kerry%20v%20Tyrone_SITE_340x190.png" group-title="GAA",Kerry v Tyrone - Sat 12 Jul 15:55 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC14-25-F-AISF1/index.m3u8
+
+#EXTINF:-1 tvg-id="PC14-25-F-AISF2" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/Meath%20v%20Donegal_SITE_340x190.png" group-title="GAA",Donegal v Meath - Sun 13 Jul 15:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC14-25-F-AISF2/index.m3u8
+
+#EXTINF:-1 tvg-id="PC12-25-TSG-15" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="GAA",The Sunday Game 13/07/2025 - Sun 13 Jul 22:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC12-25-TSG-15/index.m3u8
+
+#EXTINF:-1 tvg-id="PC20-25-H-AIF" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/roku_liammaccarthy_340x190.jpg" group-title="GAA",All-Ireland Hurling Final - Sun 20 Jul 14:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC20-25-H-AIF/index.m3u8
+
+#EXTINF:-1 tvg-id="PC20-25-F-AIF" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/site17-c-foot-sammaguire-cup_340x190.jpg" group-title="GAA",All-Ireland Football Final - Sun 27 Jul 14:00 (Irish time)
+https://event-gaa.simplestreamcdn.com/PC20-25-F-AIF/index.m3u8
