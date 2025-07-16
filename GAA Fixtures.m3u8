@@ -55,3 +55,58 @@ https://event-gaa.simplestreamcdn.com/PC20-25-F-AIF/index.m3u8
 
 #EXTINF:-1 tvg-id="PC12-25-TSG-17" tvg-logo="https://d1cj2qkzm3qh8z.cloudfront.net/website-sunday-game-resized_340x190.jpg" group-title="GAA",THE SUNDAY GAME 27/07/2025 - Sun 27 Jul 21:15 (Irish time)
 https://event-gaa.simplestreamcdn.com/PC12-25-TSG-17/index.m3u8
+
+########## Stingray ##########
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="Stingray",Qello Concerts by Stingray
+https://iptv-org.github.io/channels/ca/QelloConcertsbyStingray.m3u
+
+#EXTINF:-1 group-title="Stingray",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Flashback 70’s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Nothin’ But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Hit List
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Stingray",Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Stingray",Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Stingray",Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Stingray",Today's K‑Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/live/master.m3u8
+
+#EXTINF:-1 group-title="Stingray",Everything ’80s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
