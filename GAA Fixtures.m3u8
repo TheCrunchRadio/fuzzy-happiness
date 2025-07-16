@@ -57,56 +57,73 @@ https://event-gaa.simplestreamcdn.com/PC20-25-F-AIF/index.m3u8
 https://event-gaa.simplestreamcdn.com/PC12-25-TSG-17/index.m3u8
 
 ########## Stingray ##########
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="Stingray",Qello Concerts by Stingray
-https://iptv-org.github.io/channels/ca/QelloConcertsbyStingray.m3u
+#EXTM3U
 
-#EXTINF:-1 group-title="Stingray",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="qello" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Stingray",Qello Concerts by Stingray
+https://cdn.iptv-org.com/streams/QelloConcertsbyStingray.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_classica" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="Stingray",Stingray Classica
+https://cdn.iptv-org.com/streams/StingrayClassica.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Flashback 70’s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_classic_rock" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Stingray",Stingray Classic Rock
+https://cdn.iptv-org.com/streams/StingrayClassicRock.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_cmusic" tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="Stingray",Stingray CMusic
+https://cdn.iptv-org.com/streams/StingrayCMusic.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_djazz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="Stingray",Stingray DJAZZ
+https://cdn.iptv-org.com/streams/StingrayDJAZZ.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_easy_listening" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="Stingray",Stingray Easy Listening
+https://cdn.iptv-org.com/streams/StingrayEasyListening.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Pop Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_everything_80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Stingray",Stingray Everything '80s
+https://cdn.iptv-org.com/streams/StingrayEverything80s.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Nothin’ But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_flashback_70s" tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="Stingray",Stingray Flashback 70's
+https://cdn.iptv-org.com/streams/StingrayFlashback70s.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_hit_list" group-title="Stingray",Stingray Hit List
+https://cdn.iptv-org.com/streams/StingrayHitList.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_holiday_hits" group-title="Stingray",Stingray Holiday Hits
+https://cdn.iptv-org.com/streams/StingrayHolidayHits.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Hit List
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray_hot_country" group-title="Stingray",Stingray Hot Country
+https://cdn.iptv-org.com/streams/StingrayHotCountry.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Hot Country
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray_karaoke" group-title="Stingray",Stingray Karaoke
+https://cdn.iptv-org.com/streams/StingrayKaraoke.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Naturescape
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray_naturescape" group-title="Stingray",Stingray Naturescape
+https://cdn.iptv-org.com/streams/StingrayNaturescape.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Soul Storm
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray_nothin_but_90s" group-title="Stingray",Stingray Nothin' But 90s
+https://cdn.iptv-org.com/streams/StingrayNothinBut90s.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Today's K‑Pop
-https://lotus.stingray.com/manifest/ose-317ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_pop_adult" group-title="Stingray",Stingray Pop Adult
+https://cdn.iptv-org.com/streams/StingrayPopAdult.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_rock_alternative" group-title="Stingray",Stingray Rock Alternative
+https://cdn.iptv-org.com/streams/StingrayRockAlternative.ca/index.m3u8
 
-#EXTINF:-1 group-title="Stingray",Everything ’80s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/live/master.m3u8
+#EXTINF:-1 tvg-id="stingray_romance_latino" group-title="Stingray",Stingray Romance Latino
+https://cdn.iptv-org.com/streams/StingrayRomanceLatino.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_smooth_jazz" group-title="Stingray",Stingray Smooth Jazz
+https://cdn.iptv-org.com/streams/StingraySmoothJazz.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_soul_storm" group-title="Stingray",Stingray Soul Storm
+https://cdn.iptv-org.com/streams/StingraySoulStorm.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_the_spa" group-title="Stingray",Stingray The Spa
+https://cdn.iptv-org.com/streams/StingrayTheSpa.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_todays_kpop" group-title="Stingray",Stingray Today's K-Pop
+https://cdn.iptv-org.com/streams/StingrayTodaysKPop.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_todays_latin_pop" group-title="Stingray",Stingray Today's Latin Pop
+https://cdn.iptv-org.com/streams/StingrayTodaysLatinPop.ca/index.m3u8
+
+#EXTINF:-1 tvg-id="stingray_urban_beat" group-title="Stingray",Stingray Urban Beat
+https://cdn.iptv-org.com/streams/StingrayUrbanBeat.ca/index.m3u8
